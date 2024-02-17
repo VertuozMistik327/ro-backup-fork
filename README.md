@@ -1,3 +1,6 @@
+# ATTENTION!
+This repository was forked from original only for backup purposes (might change something later to keep repository up to date)
+
 # Подключение к ЛВС МИЭТ
 
 Это инструкция по подключению к Интернету и локальной вычислительной сети в Студгородке МИЭТ. Она одинаково работает для общежития на улице Юности и санатория Энергия. Made by @wlp5s0
